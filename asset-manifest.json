@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tubacatal.github.io/monsters-rolodex/static/css/main.c409f505.chunk.css",
+    "main.css": "/tubacatal.github.io/monsters-rolodex/static/css/main.5538bcd3.chunk.css",
     "main.js": "/tubacatal.github.io/monsters-rolodex/static/js/main.0aa0c7db.chunk.js",
     "main.js.map": "/tubacatal.github.io/monsters-rolodex/static/js/main.0aa0c7db.chunk.js.map",
     "runtime-main.js": "/tubacatal.github.io/monsters-rolodex/static/js/runtime-main.9657541c.js",
@@ -8,15 +8,15 @@
     "static/js/2.6ace61d0.chunk.js": "/tubacatal.github.io/monsters-rolodex/static/js/2.6ace61d0.chunk.js",
     "static/js/2.6ace61d0.chunk.js.map": "/tubacatal.github.io/monsters-rolodex/static/js/2.6ace61d0.chunk.js.map",
     "index.html": "/tubacatal.github.io/monsters-rolodex/index.html",
-    "precache-manifest.9d0e386f8cd3f8178cd5bf56631092d9.js": "/tubacatal.github.io/monsters-rolodex/precache-manifest.9d0e386f8cd3f8178cd5bf56631092d9.js",
+    "precache-manifest.f78d1025c734f86741ee482df36694b5.js": "/tubacatal.github.io/monsters-rolodex/precache-manifest.f78d1025c734f86741ee482df36694b5.js",
     "service-worker.js": "/tubacatal.github.io/monsters-rolodex/service-worker.js",
-    "static/css/main.c409f505.chunk.css.map": "/tubacatal.github.io/monsters-rolodex/static/css/main.c409f505.chunk.css.map",
+    "static/css/main.5538bcd3.chunk.css.map": "/tubacatal.github.io/monsters-rolodex/static/css/main.5538bcd3.chunk.css.map",
     "static/js/2.6ace61d0.chunk.js.LICENSE": "/tubacatal.github.io/monsters-rolodex/static/js/2.6ace61d0.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.9657541c.js",
     "static/js/2.6ace61d0.chunk.js",
-    "static/css/main.c409f505.chunk.css",
+    "static/css/main.5538bcd3.chunk.css",
     "static/js/main.0aa0c7db.chunk.js"
   ]
 }
