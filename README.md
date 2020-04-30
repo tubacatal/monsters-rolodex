@@ -1,4 +1,4 @@
 ## Live Project
 
-https://github.com/tubacatal.github.io/monsters-rolodex
+https://tubacatal.github.io/monsters-rolodex
 
